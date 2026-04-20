@@ -1,6 +1,6 @@
 # Olá, eu sou o Álex! 👋
 
-http://googleusercontent.com/image_generation_content/0
+![Banner de Ciência de Dados](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,bf5af2,3b82f6,ff64b4&height=200&section=header&text=Ciência%20de%20Dados%20|%20Estatística&fontSize=40&animation=fadeIn&fontAlignY=35)
 
 ### 🎓 Formação & Momento Atual
 * 🎓 **Cientista de Dados** graduado pela **Uninter**.
