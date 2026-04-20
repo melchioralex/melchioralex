@@ -1,6 +1,18 @@
 # Olá, eu sou o Álex! 👋
 
-![Banner de Ciência de Dados](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,bf5af2,3b82f6,ff64b4&height=200&section=header&text=Ciência%20de%20Dados%20|%20Estatística&fontSize=40&animation=fadeIn&fontAlignY=35)
+### 🐍 Snake Game (Commits)
+![github contribution grid snake animation](https://raw.githubusercontent.com/melchioralex/melchioralex/output/github-contribution-grid-snake.svg)
+
+---
+
+### 📈 Minhas Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melchioralex&show_icons=true&theme=tokyonight&count_private=true&border_color=bf5af2&title_color=bf5af2&icon_color=3b82f6&text_color=fff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melchioralex&layout=compact&langs_count=7&theme=tokyonight&border_color=bf5af2&title_color=bf5af2&text_color=fff" />
+</div>
+
+---
 
 ### 🎓 Formação & Momento Atual
 * 🎓 **Cientista de Dados** graduado pela **Uninter**.
@@ -19,22 +31,9 @@
 
 **Bancos de Dados e Outros**
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
----
-
-### 📈 Minhas Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melchioralex&show_icons=true&theme=tokyonight&count_private=true&border_color=bf5af2&title_color=bf5af2&icon_color=3b82f6&text_color=fff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melchioralex&layout=compact&langs_count=7&theme=tokyonight&border_color=bf5af2&title_color=bf5af2&text_color=fff" />
-</div>
-
----
-
-### 🐍 Snake Game (Commits)
-![github contribution grid snake animation](https://raw.githubusercontent.com/[SEU-USUARIO]/[SEU-USUARIO]/output/github-contribution-grid-snake.svg)
 
 ---
 
 ### 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[https://www.linkedin.com/in/%C3%A1lex-melchior-correia-14867b2a0/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1lex-melchior-correia-14867b2a0/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexmelchiorc@gmail.com)
