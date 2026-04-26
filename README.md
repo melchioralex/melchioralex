@@ -1,6 +1,5 @@
 # Olá, eu sou o Álex! 👋
 
-### 🐍 Snake Game (Commits)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/melchioralex/melchioralex/output/github-contribution-grid-snake.svg)
 
 ---
