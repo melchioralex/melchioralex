@@ -1,6 +1,6 @@
 # Olá, eu sou o Álex! 👋
 
-![github contribution grid snake animation]([https://raw.githubusercontent.com/melchioralex/melchioralex/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/melchioralex/melchioralex/output/github-contribution-grid-snake.svg?v=2026))
+![github contribution grid snake animation](https://raw.githubusercontent.com/melchioralex/melchioralex/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
