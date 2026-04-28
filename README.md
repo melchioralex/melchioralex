@@ -1,4 +1,4 @@
-# Olá, eu sou o Álex! 👋
+<h1 align="center">Olá, eu sou o Álex! 👋</h1>
 
 <p align="center">
   <img height="195em" src="https://github-readme-stats.vercel.app/api?username=melchioralex&show_icons=true&theme=tokyonight&count_private=true&border_color=bf5af2&title_color=bf5af2&icon_color=3b82f6&text_color=fff" />
