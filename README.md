@@ -1,9 +1,5 @@
 # Olá, eu sou o Álex! 👋
 
----
-
-### 📈 Minhas Estatísticas
-
 <p align="center">
   <img height="195em" src="https://github-readme-stats.vercel.app/api?username=melchioralex&show_icons=true&theme=tokyonight&count_private=true&border_color=bf5af2&title_color=bf5af2&icon_color=3b82f6&text_color=fff" />
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melchioralex&theme=tokyonight&border_color=bf5af2&title_color=bf5af2&text_color=fff&langs_count=7&cache_seconds=1800" />
